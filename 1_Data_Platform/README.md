@@ -1,8 +1,8 @@
-# Part I — Data Platform (NB01–NB07)
+# Part I — Data Platform & Signal Engineering (NB01–NB07)
 
 ## Scope
 
-The Data Platform forms the foundation of the GB Constraint Intelligence Platform.  
+The Data Platform & Signal Engineering forms the foundation of the GB Constraint Intelligence Platform.  
 It constructs a clean, validated, and reusable analytical dataset describing GB electricity system behaviour.
 
 This layer supports all subsequent research stages.
