@@ -54,3 +54,4 @@ Market conditions during constraint episodes, flexibility value, and economic op
 This project is an independent analytical research programme.  
 Findings describe historical system behaviour and should not be interpreted as forecasts, investment advice, or operational recommendations.
 
+All analysis is implemented in a private research environment. Full notebooks and code are available on request.
