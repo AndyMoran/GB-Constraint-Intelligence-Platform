@@ -2,7 +2,9 @@
 
 ## Scope
 
-Part III extends the engineering analysis into an economic framework.  This section evaluates the market conditions accompanying constraint episodes and assesses the economic opportunity for flexibility assets.
+Part III extends the engineering analysis into an economic framework.  
+This layer evaluates the market conditions accompanying constraint episodes and assesses the economic opportunity for flexibility assets.  
+The analysis builds on the physical feasibility results from Part II, beginning with the North‑West case study before generalising to broader system behaviour.
 
 ---
 
@@ -11,7 +13,7 @@ Part III extends the engineering analysis into an economic framework.  This sect
 - Identify which constraint episodes create meaningful economic value  
 - Understand imbalance price behaviour during periods of high burden  
 - Evaluate whether high‑value episodes are physically survivable  
-- Characterise flexibility value across boundaries and episode types
+- Characterise flexibility value across boundaries and episode types  
 
 ---
 
@@ -37,9 +39,9 @@ Part III extends the engineering analysis into an economic framework.  This sect
 
 ## Planned Outputs
 
-- Constraint episode market profiles  
-- Flexibility value rankings  
-- Asset opportunity assessments  
+- Constraint‑episode market profiles  
+- Flexibility‑value rankings  
+- Asset‑opportunity assessments  
 - Economic archetypes of constraint behaviour  
 
 ---
@@ -48,4 +50,3 @@ Part III extends the engineering analysis into an economic framework.  This sect
 
 This layer is currently in development.  
 It builds directly on the physical feasibility results from Part II.
-
