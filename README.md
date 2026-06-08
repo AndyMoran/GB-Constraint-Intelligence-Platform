@@ -27,7 +27,7 @@ The philosophy is simple:
 Data ingestion, validation, harmonisation, feature engineering, and construction of constraint‑ready analytical datasets.
 
 ### **Part II — Constraint Behaviour & Storage Feasibility (NB08–NB12)**  
-Persistence, clustering, operational burden, asset survivability, and state‑of‑charge dynamics.
+GB‑wide screening of constraint persistence, burden concentration, clustering, and operational archetypes, followed by a **detailed North‑West case study** evaluating asset survivability, power and energy limitations, and state‑of‑charge dynamics for selected high‑burden transmission boundaries.
 
 ### **Part III — Constraint Economics & Flexibility Value (Planned) (NB13–NB16)**  
 Market conditions during constraint episodes, flexibility value, and economic opportunity assessment.
