@@ -2,10 +2,10 @@
 
 ## Scope
 
-The Data Platform & Signal Engineering forms the foundation of the GB Constraint Intelligence Platform.  
+The Data Platform & Signal Engineering layer forms the foundation of the GB Constraint Analytics Platform.  
 It constructs a clean, validated, and reusable analytical dataset describing GB electricity system behaviour.
 
-This layer supports all subsequent research stages.
+This layer supports both the GB‑wide screening analysis and the detailed North‑West case study developed in Part II.
 
 ---
 
@@ -36,10 +36,3 @@ This layer supports all subsequent research stages.
 - Constraint‑level analytical datasets  
 - Derived loading and burden metrics  
 - Common schemas used across Parts II and III
-
----
-
-## Outcome
-
-A robust analytical platform capable of supporting multi‑stage research into constraint behaviour, asset feasibility, and flexibility economics.
-
