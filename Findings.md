@@ -74,9 +74,7 @@ The project originated from the observation that North-West transmission constra
 
 4. What power and energy capabilities are required to survive observed episodes?
 
-5. Does recharge risk materially constrain asset performance?
-
-6. For selected North-West constraint groups, does recharge risk materially constrain storage operation?
+5. For selected North-West constraint groups, does recharge risk materially constrain storage operation?
 
 ---
 
@@ -200,7 +198,7 @@ Independent events become episodes.
 
 Recovery periods between operational episodes are typically long relative to battery recharge requirements.
 
-Median recovery windows are approximately one day, with upper-quartile recovery periods substantially longer.
+Median recovery windows are approximately one day (25.5 hrs), with upper-quartile recovery periods substantially longer.
 
 ### Implication
 
