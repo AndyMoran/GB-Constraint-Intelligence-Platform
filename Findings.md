@@ -1,6 +1,6 @@
 # GB Constraint Analytics Platform
 
-## Constraint Behaviour and Storage Feasibility in the Great Britain Electricity System
+## Constraint Behaviour and Storage Feasibility in the Great Britain Electricity System: A North-West Transmission Constraint Case Study
 
 ### Project Findings Report (Version 1)
 
@@ -10,7 +10,7 @@
 
 ## Objective
 
-This study investigates whether observed transmission constraint behaviour in the Great Britain electricity system creates a material operational challenge for Battery Energy Storage Systems (BESS).
+This study investigates whether transmission constraint behaviour creates a material operational challenge for Battery Energy Storage Systems (BESS). The project combines a GB-wide constraint screening framework with a detailed case study of selected high-burden North-West transmission constraint boundaries.
 
 The analysis combines transmission constraint data, Balancing Mechanism data and derived operational metrics to characterise:
 
@@ -22,7 +22,8 @@ The analysis combines transmission constraint data, Balancing Mechanism data and
 
 The central research question is:
 
-> Do clustered transmission constraint episodes create a material recharge limitation for representative storage assets?
+> Do clustered transmission constraint episodes create a material recharge limitation for representative storage assets? The analysis was conducted in two stages. First, GB-wide
+constraint behaviour was characterised to identify burden concentration, persistence and operational archetypes. Second, selected North-West constraint groups were examined in detail to evaluate storage survivability, state-of-charge dynamics and recharge behaviour.
 
 ---
 
@@ -30,9 +31,9 @@ The central research question is:
 
 Transmission constraint behaviour exhibits persistence, burden concentration and temporal clustering. Constraint events therefore cannot be treated as independent observations when assessing storage requirements.
 
-Representative battery simulations show that asset performance is primarily determined by power capability and energy capacity during operational episodes. Smaller assets are predominantly power-constrained, while larger assets increasingly encounter energy limitations during prolonged episodes.
+For the analysed North-West constraint groups, representative battery simulations show that asset performance is primarily determined by power capability and energy capacity during operational episodes.
 
-Despite meaningful clustering, historical recovery windows are generally sufficient for batteries to fully recharge between episodes. Across the observed dataset, recharge risk was not found to be a material operational limitation.
+Despite meaningful clustering, historical recovery windows are generally sufficient for batteries to fully recharge between episodes. Across the analysed North-West episode population, recharge risk was not found to be a material operational limitation.
 
 The dominant challenge for flexibility assets is therefore delivering sufficient power and energy during operational episodes rather than recovering between episodes.
 
@@ -59,6 +60,8 @@ Battery Energy Storage Systems (BESS) are frequently proposed as a solution to c
 
 This study addresses that gap by examining how historical constraint events evolve through time and how representative storage assets perform under observed operating conditions.
 
+The project originated from the observation that North-West transmission constraints appeared to exhibit persistent and operationally significant behaviour that warranted further investigation. To provide system-wide context and establish a reusable analytical framework, the full GB constraint dataset was analysed. Detailed storage-feasibility and recharge analysis was then performed on selected North-West transmission constraint groups.
+
 ---
 
 ## Research Questions
@@ -72,6 +75,8 @@ This study addresses that gap by examining how historical constraint events evol
 4. What power and energy capabilities are required to survive observed episodes?
 
 5. Does recharge risk materially constrain asset performance?
+
+6. For selected North-West constraint groups, does recharge risk materially constrain storage operation?
 
 ---
 
@@ -143,7 +148,7 @@ Constraints are not isolated events.
 
 Operational burden is not evenly distributed across the network.
 
-A relatively small number of boundaries account for a disproportionate share of total burden.
+A relatively small number of transmission boundaries account for a disproportionate share of total burden. Several of the highest-burden groups were located within the North-West region and became the focus of the subsequent storage-feasibility assessment.
 
 ![Figure 2 – Operational Burden Concentration](docs/figures/fig07_burden_group.png)
 
@@ -220,7 +225,7 @@ Many smaller assets fail power-feasibility tests before energy capacity becomes 
 
 A battery may possess sufficient stored energy yet remain unable to participate because instantaneous discharge capability is inadequate.
 
-Power capability therefore represents the primary design constraint at the studied transmission boundaries.
+Power capability therefore represents the primary design constraint for the analysed North-West transmission boundaries.
 
 ![Figure 6 – Historical Episode Outcomes by Asset Size](docs/figures/fig12_failure_capacity.png)
 
@@ -281,7 +286,7 @@ Historical recovery windows consistently exceed recharge requirements.
 
 ### Implication
 
-Recharge limitations do not materially affect survivability under observed conditions.
+Recharge limitations do not materially affect survivability across the analysed North-West constraint episodes.
 
 ![Figure 9 – Safety Margin Distribution](docs/figures/fig13_safety_margin.png)
 
@@ -297,7 +302,7 @@ No historical episode entered the recharge-risk region.
 
 ### Implication
 
-Recharge risk does not appear to be a binding operational limitation under observed operating conditions.
+Recharge risk does not appear to be a binding operational limitation for the analysed North-West constraint groups under historical operating conditions.
 
 ---
 
@@ -333,7 +338,7 @@ The analysis demonstrates that transmission constraints create meaningful operat
 
 However, those challenges arise primarily from the power and energy requirements of individual operational episodes rather than from recharge limitations between episodes.
 
-The evidence therefore does not support the hypothesis that recharge risk is a primary operational constraint under historical operating conditions.
+The evidence therefore does not support the hypothesis that recharge risk is a primary operational constraint for the analysed North-West transmission constraint groups under historical operating conditions.
 
 ---
 
@@ -359,7 +364,7 @@ Results describe historical operating conditions and should not be interpreted a
 
 ## Regional Scope
 
-Results reflect the analysed transmission boundaries and may not generalise to all regions or future network configurations.
+Detailed storage-feasibility findings are derived from selected North-West transmission constraint groups identified through the GB-wide screening process. Results should not automatically be assumed to apply to all transmission regions without further analysis.
 
 ---
 
@@ -377,11 +382,11 @@ Market value, revenue capture and flexibility economics are intentionally outsid
 
 2. Operational burden is highly concentrated across a relatively small number of locations and episodes.
 
-3. Power capability represents the primary design constraint for representative storage assets.
+3. For the analysed North-West constraint groups, power capability represents the primary design constraint for representative storage assets.
 
 4. Energy capacity becomes important only after power requirements have been satisfied.
 
-5. Recharge risk was not observed as a binding operational limitation.
+5. Recharge risk was not observed as a binding operational limitation across the analysed North-West episode population.
 
 6. Constraint episodes behave as effectively independent challenges from a state-of-charge perspective.
 
