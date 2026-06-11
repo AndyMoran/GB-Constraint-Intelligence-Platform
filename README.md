@@ -40,11 +40,11 @@ Economic opportunity, revenue capture, investment viability, and the strategic i
 
 ---
 
-## Navigation
+### Navigation
 
-- [Part I — Data Platform](./Part_I_Data_Platform/README.md)  
-- [Part II — Constraint Behaviour & Storage Feasibility](./Part_II_Constraint_Behaviour/README.md)  
-- [Part III — Constraint Economics & Flexibility Value](./Part_III_Constraint_Economics/README.md)
+- [Part I — Data Platform](1_Data_Platform/README.md)
+- [Part II — Constraint Behaviour & Storage Feasibility](2_Constraint_Behaviour/README.md)
+- [Part III — Constraint Economics & System‑Level Value](3_Constraint_Economics/README.md)
 
 ---
 
