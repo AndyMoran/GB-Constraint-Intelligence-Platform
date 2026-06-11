@@ -29,15 +29,14 @@ Data ingestion, validation, harmonisation, feature engineering, and construction
 ### **Part II — Constraint Behaviour & Storage Feasibility (NB08–NB12)**  
 GB‑wide screening of constraint persistence, burden concentration, clustering, and operational archetypes, followed by a **detailed North‑West case study** evaluating asset survivability, power and energy limitations, and state‑of‑charge dynamics for selected high‑burden transmission boundaries.
 
-### **Part III — Constraint Economics & Flexibility Value (Planned) (NB13–NB16)**  
-Market conditions during constraint episodes, flexibility value, and economic opportunity assessment.
+### Part III — Constraint Economics & System‑Level Value (NB13–NB17)
+Economic opportunity, revenue capture, investment viability, and the strategic implications of persistent North‑West transmission congestion.
 
 ---
 
 ## Status
 
-- **Completed:** Part I, Part II  
-- **In Progress:** Part III  
+- **Completed:** Part I, Part II and Part III  
 
 ---
 
